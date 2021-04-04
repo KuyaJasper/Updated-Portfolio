@@ -1,6 +1,4 @@
-header h1{
-    text-align: center;
-}
+
 
 #GithubIcon{
     color: crimson;
@@ -27,18 +25,56 @@ img {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
+}
+
+
+#Projects{
+    background-image: url("./Images/Pictures/WalkingTrail.jpg");
+    min-height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
+}
+
+#Projects p{
+    color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;    
 }
 
 #Jasper{
     font-family: 'Kaushan Script', cursive;
     font-size: 200px;
     color: whitesmoke;
-    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
 #Intro h1{
     font-size: 50px;
     color: whitesmoke;
+}
+
+#ContactPicture{
+    background-image: url("./Images/Pictures/TopofBlackDiamond.jpg");
+    min-height: 1000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#ContactText{
+    color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;    
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
+
 }
 
 
