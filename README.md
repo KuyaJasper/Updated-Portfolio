@@ -6,6 +6,8 @@ I used a CSS framework called Bulma because they are mobile friendly.
 
 I also used CSS stylesheets from Google Fonts and Font Awesome.
 
+For background images, I used personal pictures from vacations I took on my phone.
+
 # Screen Shot
 ![](./assets/Images/ScreenShot.gif)
 
