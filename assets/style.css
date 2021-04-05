@@ -85,9 +85,22 @@ img {
 
 @media only screen 
 and (min-width:1025px)
-and (min-width:1281px)
+ {
+    #TitleImage{
+        background-attachment: fixed;
+    }
+    #Projects{
+        background-attachment: fixed;
+
+    }
+    #ContactPicture{
+        background-attachment: fixed;
+    }
+}
+
+@media only screen
 and (min-width:600px) 
-and (min-width:801px) {
+{
     #TitleImage{
         background-attachment: fixed;
     }
@@ -101,8 +114,7 @@ and (min-width:801px) {
 }
 
 @media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 480px) {
+and (min-device-width : 320px) {
     #Jasper{
         font-size: 75px;
     }
@@ -112,5 +124,15 @@ and (max-device-width : 480px) {
     }
     #ContactText{
         font-size: 65px;
+    }
+    #TitleImage{
+        background-attachment: fixed;
+    }
+    #Projects{
+        background-attachment: fixed;
+
+    }
+    #ContactPicture{
+        background-attachment: fixed;
     }
 }
