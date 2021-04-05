@@ -21,7 +21,6 @@ img {
 #TitleImage{
     background-image: url("./Images/Pictures/Floatinglantern.jpg");
     min-height: 1000px;
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -33,7 +32,6 @@ img {
 #Projects{
     background-image: url("./Images/Pictures/WalkingTrail.jpg");
     min-height: 800px;
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -61,7 +59,6 @@ img {
 #ContactPicture{
     background-image: url("./Images/Pictures/TopofBlackDiamond.jpg");
     min-height: 1000px;
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
