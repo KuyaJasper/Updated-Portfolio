@@ -101,16 +101,7 @@ and (min-width:1025px)
 @media only screen
 and (min-width:600px) 
 {
-    #TitleImage{
-        background-attachment: fixed;
-    }
-    #Projects{
-        background-attachment: fixed;
 
-    }
-    #ContactPicture{
-        background-attachment: fixed;
-    }
 }
 
 @media only screen 
@@ -125,14 +116,5 @@ and (min-device-width : 320px) {
     #ContactText{
         font-size: 65px;
     }
-    #TitleImage{
-        background-attachment: fixed;
-    }
-    #Projects{
-        background-attachment: fixed;
-
-    }
-    #ContactPicture{
-        background-attachment: fixed;
-    }
+   
 }
