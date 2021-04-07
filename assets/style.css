@@ -22,6 +22,7 @@ img {
     background-image: url("./Images/Pictures/FloatingLantern.jpg");
     min-height: 1000px;
     background-position: center;
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
