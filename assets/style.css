@@ -102,7 +102,7 @@ and (min-width:1025px)
 and (min-device-width : 320px)
 and (max-width:600px) {
     #Jasper{
-        font-size: 75px;
+        font-size: 95px;
     }
 
     #Projects p{
