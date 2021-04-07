@@ -21,7 +21,6 @@ img {
 #TitleImage{
     background-image: url("./Images/Pictures/FloatingLantern.jpg");
     min-height: 1000px;
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
