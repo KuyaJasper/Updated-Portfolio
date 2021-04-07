@@ -19,8 +19,9 @@ img {
 
   
 #TitleImage{
-    background-image: url("./Images/Pictures/Floatinglantern.jpg");
+    background-image: url("./Images/Pictures/FloatingLantern.jpg");
     min-height: 1000px;
+    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -57,7 +58,7 @@ img {
 }
 
 #ContactPicture{
-    background-image: url("./Images/Pictures/TopofBlackDiamond.jpg");
+    background-image: url("./Images/Pictures/BlackDiamondSkyline.jpg");
     min-height: 1000px;
     background-position: center;
     background-repeat: no-repeat;
