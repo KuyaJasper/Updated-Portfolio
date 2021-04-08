@@ -1,7 +1,12 @@
 
 
-#GithubIcon{
+#NavIcon{
+    margin-right:5px;
+}
+
+.fa-github{
     color: crimson;
+
 }
 
 footer{
